@@ -2,7 +2,7 @@
 
 ## Overview
 This documentation provides an explanation of the "Voice Recorder" application, which allows users to record audio and save it as a WAV file. The app is built using Python and the tkinter library for the graphical user interface (GUI). It utilizes the pyaudio library to handle audio input and output, and the PIL library to display a background image on the GUI.
-
+ 
 ## Requirements
 - Python 3.x
 - tkinter library
