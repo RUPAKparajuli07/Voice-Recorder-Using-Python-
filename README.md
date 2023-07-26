@@ -52,11 +52,6 @@ The application provides a graphical user interface (GUI) with the following com
 - A "Save Recording" button: Click this button to save the recorded audio as a WAV file. If there is no recording, a message will be displayed.
 - A status label: This label displays the recording status, either "Recording..." along with the elapsed time or "Recording stopped" when the recording is stopped.
 
-### Demo 1 (Recording in progress):
-[![Demo 1](demo1.png)](demo1.png)
-
-### Demo 2 (Recording stopped and ready to save):
-[![Demo 2](demo2.png)](demo2.png)
 
 Please note that the background image displayed in the demos may vary depending on the image you choose to use.
 
